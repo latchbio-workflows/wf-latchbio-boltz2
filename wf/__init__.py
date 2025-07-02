@@ -396,8 +396,7 @@ def boltz2_workflow(
     affinity_mw_correction: bool = False,
     no_kernels: bool = False,
 ) -> LatchOutputDir:
-    """Boltz-2: Democratizing Biomolecular Interaction Modeling
-
+    """Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction
     <p align="center">
         <img src="https://www.biopharmatrend.com/files/uploads/2025/06/07/image_2025-06-07_13-58-57.png" alt="boltz1" width="800px"/>
     </p>
